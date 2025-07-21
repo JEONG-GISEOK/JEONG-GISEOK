@@ -1,8 +1,3 @@
-<!-- 타이핑 애니메이션: 한 줄만 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=환영합니다+👋" alt="Typing SVG" />
-</p>
-
 <!-- 키보드 스타일 인사 -->
 <h2 align="center"><code>환영합니다. 👋</code></h2>
 
