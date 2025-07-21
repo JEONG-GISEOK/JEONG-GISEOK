@@ -1,6 +1,6 @@
 <!-- 배너 이미지 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JEONG-GISEOK/JEONG-GISEOK/main/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/JEONG-GISEOK/JEONG-GISEOK/main/file_00000000695061f581e33e6f22485e5f.png" alt="banner" />
 </p>
 
 <!-- 키보드 스타일 인사 -->
