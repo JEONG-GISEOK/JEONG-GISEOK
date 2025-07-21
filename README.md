@@ -1,4 +1,12 @@
-## 환영합니다.
+<!-- 타이핑 애니메이션: 한 줄만 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=환영합니다+👋" alt="Typing SVG" />
+</p>
+
+<!-- 키보드 스타일 인사 -->
+<h2 align="center"><code>환영합니다. 👋</code></h2>
+
+---
 
 ###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +25,7 @@
 ---
 
 ### 📬 연락
-- 이메일: **contact@giseok.com**
-- 디스코드: **@tags_jgs**
-- 깃허브: [github.com/JEONG-GISEOK](https://github.com/JEONG-GISEOK)
+
+- <img src="https://img.icons8.com/fluency/20/000000/email.png" alt="email icon"/> 이메일: [contact@giseok.com](mailto:contact@giseok.com)  
+- <img src="https://img.icons8.com/color/20/000000/discord-logo.png" alt="discord icon"/> 디스코드: **@tags_jgs**  
+- <img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png" alt="github icon"/> 깃허브: [github.com/JEONG-GISEOK](https://github.com/JEONG-GISEOK)
