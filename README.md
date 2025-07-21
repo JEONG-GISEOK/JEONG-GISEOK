@@ -1,4 +1,4 @@
-## 안녕하세요! 👋 정기석입니다
+## 환영합니다.
 
 ###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +17,6 @@
 ---
 
 ### 📬 연락
-- 이메일: **giseok.dev@gmail.com**
-- 디스코드: **@giseok_dev**
-- 깃허브: [github.com/giseok](https://github.com/giseok)
+- 이메일: **contact@giseok.com**
+- 디스코드: **@tags_jgs**
+- 깃허브: [github.com/JEONG-GISEOK](https://github.com/JEONG-GISEOK)
