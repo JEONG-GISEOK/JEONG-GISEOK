@@ -1,6 +1,12 @@
+<!-- 배너 이미지 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JEONG-GISEOK/JEONG-GISEOK/main/banner.png" alt="banner" />
+</p>
+
 <!-- 키보드 스타일 인사 -->
 <h2 align="center"><code>환영합니다. 👋</code></h2>
 
+<!-- 기술 뱃지 -->
 ###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,6 +25,6 @@
 
 ### 📬 연락
 
-- <img src="https://img.icons8.com/fluency/20/000000/email.png" alt="email icon"/> 이메일: [contact@giseok.com](mailto:contact@giseok.com)  
-- <img src="https://img.icons8.com/color/20/000000/discord-logo.png" alt="discord icon"/> 디스코드: **@tags_jgs**  
-- <img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png" alt="github icon"/> 깃허브: [github.com/JEONG-GISEOK](https://github.com/JEONG-GISEOK)
+- <img src="https://img.icons8.com/fluency/20/000000/email.png" style="vertical-align: middle;" /> 이메일: [contact@giseok.com](mailto:contact@giseok.com)  
+- <img src="https://img.icons8.com/color/20/000000/discord-logo.png" style="vertical-align: middle;" /> 디스코드: **@tags_jgs**  
+- <img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png" style="vertical-align: middle;" /> 깃허브: [github.com/JEONG-GISEOK](https://github.com/JEONG-GISEOK)
