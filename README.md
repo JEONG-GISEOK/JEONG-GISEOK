@@ -1,12 +1,3 @@
-<!-- 배너 이미지 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JEONG-GISEOK/JEONG-GISEOK/main/file_00000000695061f581e33e6f22485e5f.png" alt="banner" />
-</p>
-
-<!-- 키보드 스타일 인사 -->
-<h2 align="center"><code>환영합니다. 👋</code></h2>
-
-<!-- 기술 뱃지 -->
 ###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
